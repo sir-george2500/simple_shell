@@ -1,4 +1,3 @@
-
 # Simple Shell Project
 
 **Contributors:** George S. Mulbah and  Sunday Deborah; ALX Students in Cohort 17.
