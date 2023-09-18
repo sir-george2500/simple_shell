@@ -1,5 +1,7 @@
 # Simple Shell Project
 
+![Image Description](https://drive.google.com/file/d/1SjxhOBr8PsCtl4FgUg5evRfu72ipegsq/view?usp=drive_link)
+
 **Contributors:** George S. Mulbah and  Sunday Deborah; ALX Students in Cohort 17.
 
 ## Introduction
