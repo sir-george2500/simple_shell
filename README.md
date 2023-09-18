@@ -1,5 +1,7 @@
 # Simple Shell Project
 
+![Image of the shell we Created](https://github.com/sir-george2500/custome_images/blob/main/images/picture_of_the_shell.png?raw=true)
+
 **Contributors:** George S. Mulbah and  Sunday Deborah; ALX Students in Cohort 17.
 
 ### Language use 
