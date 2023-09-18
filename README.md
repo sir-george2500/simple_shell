@@ -21,3 +21,8 @@ This shell is a basic shell that prints a prompt, waits for user to enter comman
 - Handles errors gracefully, including displaying an error message for command not found.
 - Closes the shell when the "end of file" condition is encountered.
 - Provides a clean and minimalistic shell experience without advanced features.
+
+## To Run this project you must compile it with this command 
+```bash
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
+```
