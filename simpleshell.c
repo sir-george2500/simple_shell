@@ -8,7 +8,7 @@
  */
 int main(int argc, char *argv[], char *env[])
 {
-	data_of_program data_struct = {NULL};
+	data_of_program data_struct = {NULL, NULL, NULL, 0, 0, NULL, NULL, NULL};
 	data_of_program	*data = &data_struct;
 	char *prompt = "";
 
