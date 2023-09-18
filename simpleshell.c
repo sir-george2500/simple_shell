@@ -8,7 +8,8 @@
  */
 int main(int argc, char *argv[], char *env[])
 {
-	data_of_program data_struct = {NULL}, *data = &data_struct;
+	data_of_program data_struct = {NULL};
+	data_of_program	*data = &data_struct;
 	char *prompt = "";
 
 	inicialize_data(data, argc, argv, env);
