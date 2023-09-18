@@ -1,8 +1,10 @@
 # Simple Shell Project
 
-![Image Description](https://github.com/sir-george2500/custome_images/blob/main/images/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f432f632d70726f6772616d6d696e672d6c616e67756167652d6c6f676f2d394233324430313742312d7365656b6c6f676f2e636f6d2e706e67.png?raw=true)
-
 **Contributors:** George S. Mulbah and  Sunday Deborah; ALX Students in Cohort 17.
+
+### Language use 
+
+![Image of the C language](https://github.com/sir-george2500/custome_images/blob/main/images/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f432f632d70726f6772616d6d696e672d6c616e67756167652d6c6f676f2d394233324430313742312d7365656b6c6f676f2e636f6d2e706e67.png?raw=true)
 
 ## Introduction
 
