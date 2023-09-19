@@ -68,7 +68,7 @@ void inicialize_data(data_of_program *data, int argc, char *argv[], char **env)
 		}
 	}
 	data->tokens = NULL;
-	data->env = malloc(sizeof(char *) * 50);
+	data->env = malloc(sizeof(char *) * 60);
 	if (env)
 	{
 		for (; env[i]; i++)
